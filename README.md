@@ -1,0 +1,1 @@
+The McCabe-Thiele Distillation Column Analyzer is a MATLAB script designed to calculate the number of trays for binary mixtures by the McCabe-Thiele graphical method. First, it calculates the minimum reflux ratio required for the desired separation efficiency. Then, users can input their desired reflux ratio, and the script will determine the number of stages needed.
